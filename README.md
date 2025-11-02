@@ -20,4 +20,4 @@ My first repository
 - Green Goblin
 - Doctor Octopus
 
-![Spider-Man Poster](https://upload.wikimedia.org/wikipedia/en/f/f3/Spider)
+![Spider-Man Poster](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTawdT7OvAewM1DD2M_BM8lUDdM8pZT6AOLg&s)
