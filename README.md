@@ -20,4 +20,4 @@ My first repository
 - Green Goblin
 - Doctor Octopus
 
-![Spider-Man](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0145487%2F&psig=AOvVaw0BuY8BdVl_iSY9EPleXwoX&ust=1762162781593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKil3pqW05ADFQAAAAAdAAAAABAT)
+![Spider-Man Poster](https://upload.wikimedia.org/wikipedia/en/f/f3/Spider)
